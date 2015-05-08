@@ -1,0 +1,11 @@
+{
+  "name": "dbgp",
+  "require": {
+    "react/socket": "0.4.*@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dbgp\\": "debugger/"
+    }
+  }
+}
